@@ -793,6 +793,8 @@ comprehensive and high-level, you may want the Web Frameworks section.
   (including the kernel!) with low overhead and without recompilation. [``GPL-2.0-only``][GPL-2.0-only]
 * [perf][375] - Linux kernel-based profiler with a lot of functionality.
   [``GPL-2.0-only``][GPL-2.0-only]
+* [lo2s][620] - Lightweight Node-Level Performance Monitoring.
+  [``GPL-3.0-only``][GPL-3.0-only]
 
 ## PDF ##
 
@@ -1830,3 +1832,4 @@ support for C.
 [617]: https://github.com/Cogmasters/concord
 [618]: https://github.com/solenum/exengine
 [619]: https://projects.malikania.fr/bcc
+[620]: https://github.com/tud-zih-energy/lo2s
